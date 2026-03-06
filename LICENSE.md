@@ -1,6 +1,7 @@
 MIT License
 
 comm 1
+comm 2
 
 Copyright (c) 2018—preset Artem Zakharchenko
 
