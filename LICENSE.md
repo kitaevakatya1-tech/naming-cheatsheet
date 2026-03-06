@@ -1,5 +1,9 @@
 MIT License
 
+comm 1
+comm 2
+comm 3
+
 Copyright (c) 2018—preset Artem Zakharchenko
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
