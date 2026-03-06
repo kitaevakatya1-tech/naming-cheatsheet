@@ -6,7 +6,7 @@
 
 изменение 1
 изменение 2
-
+изменение 3
 # Naming cheatsheet
 
 - [English language](#english-language)
