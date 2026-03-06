@@ -4,6 +4,8 @@
   </a>
 </p>
 
+изменение 1
+
 # Naming cheatsheet
 
 - [English language](#english-language)
