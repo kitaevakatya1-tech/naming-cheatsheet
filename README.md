@@ -7,6 +7,8 @@
 изменение 1
 изменение 2
 изменение 3
+1
+
 # Naming cheatsheet
 
 - [English language](#english-language)
